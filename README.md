@@ -14,12 +14,6 @@ The proliferation of misinformation is a significant issue in today's digital so
 
 Our findings indicate that **Logistic Regression outperformed other models with an accuracy of 91%**, followed closely by XGBoost and our custom CNN model.
 
-## 👥 Authors
-
-* **Şükrü Erim Sinal** - Istanbul Kultur University
-* **Ahmet Kaan Memişoğlu** - Istanbul Kultur University
-* **Emrecan Üzüm** - Istanbul Kultur University
-
 ## 📊 Dataset
 
 The dataset consists of **59,983 news articles** gathered via `snscrape`:
@@ -94,4 +88,4 @@ To reproduce the results or train the models on your local machine:
 ## 📜 Reference
 
 If you use this work, please cite our paper:
-> *Sinal, S. E., Memişoğlu, A. K., & Üzüm, E. (2025). The Identification of Satirical Fake News in Turkey. Istanbul Kultur University.*
+> *Sinal, S. E., Memioğlu, A. K., & Üzüm, E. (2025). The Identification of Satirical Fake News in Turkey. Istanbul Kultur University.*
